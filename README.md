@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/mmackenzie-syd/file-explorer/blob/main/Screenshot%20from%202022-10-24%2004-52-48.png)
 
 # Getting Started with Create React App
 
